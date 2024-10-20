@@ -32,10 +32,11 @@ body {
 }
 
 .happy-woman-day {
+  text-align: center;
   color: white;
-  font-size: 50px;
+  font-size: 40px;
   position: fixed;
-  top: 80px;
+  top: 20px;
 }
 
 .flowers {
